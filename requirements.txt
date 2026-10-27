@@ -1,0 +1,5 @@
+cython==0.29.37
+scikit-learn==0.23.0
+spacy==2.2.3
+tika==1.24
+urllib3<2.0
